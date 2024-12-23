@@ -30,7 +30,7 @@ const Hero = () => {
           </Container>
         </Container>
         <p className={styles.subtitle}>
-          A Next.js and MongoDB web application, designed with simplicity for
+          A Next.js and MuthaiyanDB web application, designed with simplicity for
           learning and real-world applicability in mind.
         </p>
       </div>
